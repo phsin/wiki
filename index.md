@@ -113,7 +113,7 @@ tags: false
 * [Как открыть XML ответ Ветис][mydoc_install_jekyll_on_mac]
 * [Как определить версию интеграции][mydoc_install_jekyll_on_mac]
 
-## [Правила технической поддержки](mydoc_install_jekyll_on_mac)
+## [Правила технической поддержки](support)
 
 {% include note.html content="Не нашли ответа ? <a alt='Задайте свой вопрос на форуме' href='https://redmine.kb99.pro/projects/vsd_1c/boards'>Задайте свой вопрос на форуме</a>" %}
 
