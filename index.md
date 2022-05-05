@@ -1,37 +1,119 @@
-## Welcome to GitHub Pages
+---
+title: "Интеграция 1С + ФГИС Меркурий"
+keywords: sample homepage
+tags: [getting_started]
+sidebar: mydoc_sidebar
+permalink: index.html
+summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+toc: false
+tags: false
 
-You can use the [editor on GitHub](https://github.com/phsin/wiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [О модуле](mydoc_install_jekyll_on_windows) - сокращенно о ГИС Меркурий 
 
-### Markdown
+* Совместимость
+* Аппаратные требования
+ 
+## [Описание работы модуля] 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+10 минутные видео с описанием функций модуля интеграции
 
-```markdown
-Syntax highlighted code block
+## [Установка обработки] 
 
-# Header 1
-## Header 2
-### Header 3
+описание внесения изменений в 1С Предприятие 7.7 
 
-- Bulleted
-- List
+## [Настройка параметров] 
 
-1. Numbered
-2. List
+* Настройка начальных параметров
+* Инициализация 
+* Начальная загрузка справочников из Меркурия
 
-**Bold** and _Italic_ and `Code` text
+## [ВСД транзакция] - краткое описание схема работы с документом 
 
-[Link](url) and ![Image](src)
-```
+* создания ВСД в групповой обработке документов
+* отправка в ГИС Меркурий
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## [Инструкция по обновлению модуля] 
 
-### Jekyll Themes
+* Пошаговая инструкция по обновлению ert и dll файлов модуля
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phsin/wiki/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Справочники 
 
-### Support or Contact
+* [ВСД_ХозСубъект]
+* [ВСД_Площадка]
+* [ВСД_Партия]
+* [ВСД_Продукция_Элемент]
+* [ВСД_Продукция]
+* [ВСД_ВидПродукция]
+* [ВСД_ЕдиницыИзмерения]
+* [ВСД_ФормыУпаковки]
+* [ВСД_Цель]
+* [ВСД_Группа]
+* [ВСД_Страна]
+* [ВСД_Регион]
+* [ВСД_Район]
+* [ВСД_Город]
+* [ВСД_Улица]
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Документы Ветис.API 2.*
+
+* [ВСД2_Транзакция]
+* [ВСД2_Производство]
+* [ВСД2_Инвентаризация]
+* [ВСД2_ОбъединениеПартий]
+* [ВСД2_Входящий]
+* [ВСД2_ОбновитьТранспорт]
+* [ВСД2_ЛабораторныеИсследования]
+* [ВСД2]
+
+## Документы Ветис.API 1.*
+
+* [ВСД_Транзакция]
+* [ВСД_Производство]
+* [ВСД_Инвентаризация]
+* [ВСД_ОбъединениеПартий]
+* [ВСД_Входящий]
+* [ВСД]
+
+## Обработки *Ветис 2.**
+
+* "Меркурий_Параметры":https://redmine.kb99.pro/projects/vsd_1c/wiki/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2
+** параметры модуля, начальная инициализация 
+* [Меркурий_ГлобальныйМодуль2]
+** класс с основными функциями
+* [Меркурий_ГО_Реализации_Транзакции_2]
+** Групповая обработка для оформления Транспортных ВСД на основании документов *Реализация*
+* [Меркурий_Обмен_2]
+** Сервисные функции для проверки и отладки 
+* [Меркурий_Гашение_ВСД2]
+** Гашение входящих ВСД 
+* [Мультимодальная перевозка]
+** Маршрут доставки
+* [ВСД_СоздатьХС]
+** Создание ХозСубъекта в ГИС Меркурий
+* [ВСД_СоздатьПлощадку]
+** Создание Площадки в ГИС Меркурий
+* [ВСД_ЗагрузитьЦельВгруппу] 
+** Загрузка справочника целей перевозки согласно приказу 646
+* [Меркурий_РаботаСПартиямиИЛабИссл]
+** групповое оформление лабораторных исследований для произведенных партий продукции 
+* [ВСД_СоздатьПродукция_Элемент]
+** Групповое создание Продукции и регистрация в ГИС Меркурий
+* [Списание_Партий]
+** Групповое списание партий в ГИС Меркурий
+
+## FAQ частые вопросы при начале работе с модулем
+
+
+* [Как загрузить актуальные партии Меркурия в 1С][mydoc_install_jekyll_on_mac]
+* [Как привязать партии Меркурия к партиям 1C][mydoc_install_jekyll_on_mac]
+* [ВетВрач не даёт свой логин][mydoc_install_jekyll_on_mac]
+* [Работа с git][mydoc_install_jekyll_on_mac]
+* [Как открыть XML ответ Ветис][mydoc_install_jekyll_on_mac]
+* [Как определить версию интеграции][mydoc_install_jekyll_on_mac]
+
+## [Правила технической поддержки](mydoc_install_jekyll_on_mac)
+
+{% include note.html content="Не нашли ответа ? <a alt='Задайте свой вопрос на форуме' href='https://redmine.kb99.pro/projects/vsd_1c/boards'>Задайте свой вопрос на форуме</a>" %}
+
