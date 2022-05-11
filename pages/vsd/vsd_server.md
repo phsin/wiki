@@ -2,7 +2,7 @@
 title: Аппаратные требования 
 tags: [formatting]
 keywords: search
-# summary: "Документ предназначен для оформления в системе Меркурий транспортной партии."
+summary: "Конфигурации 1С совместимые с интеграцией ФГИС Меркурий."
 sidebar: mydoc_sidebar
 permalink: vsd_server.html
 folder: vsd

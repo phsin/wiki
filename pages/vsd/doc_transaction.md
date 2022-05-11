@@ -2,10 +2,10 @@
 title: Документ ВСД2_Транзакция
 tags: [formatting]
 keywords: search
-summary: "Документ предназначен для оформления в системе Меркурий транспортной партии."
+summary: "предназначен для оформления транспортной партии в системе Меркурий."
 sidebar: mydoc_sidebar
-permalink: vsd_transaction2.html
-folder: mydoc
+permalink: doc_transaction.html
+folder: vsd
 toc: false
 tags: false
 ---
@@ -21,12 +21,11 @@ margin-bottom: 10px;
 </style>
 
 
-{% include image.html file="screenshot_1_1548338971_screenshot_1_1545127071_2018-12-18_13-52-07.png" url="http://idratherbewriting.com/documentation-theme-jekyll/mydoc_help_api/" alt="Building a Help API" caption="" max-width="600" %}
-Документ предназначен для оформления в системе Меркурий транспортной партии.
+{% include image.html file="screenshot_1_1548338971_screenshot_1_1545127071_2018-12-18_13-52-07.png" url="" alt="" caption="" max-width="800" %}
 
 ### Параметры
 
-На вход системы передаются следующие сведения:
+Документ передаёт сведения:
 
 * информация об одной или нескольких партиях продукции, из которых будет сформирована транспортная партия;
 * сведения о получателе транспортной партии;
@@ -40,7 +39,7 @@ margin-bottom: 10px;
 * для каждого наименования продукции указанного в транспортной партии, система Меркурий формирует ветеринарно-сопроводительный документ (ВСД).
 
 ### Cценарии
-При выполнении операции возможны следующие сценарии:
+При выполнении операции возможны сценарии:
 
 * Перевозка со сменой владельца: В сведениях об отправителе и получателе продукции указаны разные хозяйствующие субъекты и предприятия.
 
@@ -48,7 +47,7 @@ margin-bottom: 10px;
 
 * Смена владельца без перевозки: В сведениях об отправителе и получателе продукции указаны разные хозяйствующие субъекты, но одинаковые предприятия.
 
-Для записей журнала возможны следующие ситуации:
+Для записей журнала возможны ситуации:
 
 1. Продукция с записи журнала была полностью израсходована (отгружена), т.е. объём продукции после списания стал равен нулю.
 Происходит списание объёмов с одной или нескольких записей журнала.
@@ -60,20 +59,18 @@ margin-bottom: 10px;
 Происходит списание объёмов с одной или нескольких записей журнала.
 Оформляется ВСД на каждое наименование отгружаемой продукции.
 
- {% include image.html file="screenshot_1_1548338971_screenshot_1_1545127071_2018-12-18_13-52-07.png" url="http://idratherbewriting.com/documentation-theme-jekyll/mydoc_help_api/" alt="Building a Help API" caption="" max-width="600" %}
-
 При перемещении между площадками вы можете гасить(подтверждать получение) сразу из документа ВСД2_транзакция, без получения списка партий по Площадке_Получателю
 
 ### Видео: Оформление ВСД транзакции Ветис 2.0
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/SOZu23Wwd1I" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/SOZu23Wwd1I?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Вебинар Оформление входящих ВСД, лабораторных исследований и транспортных ВСД [26.02.2018]
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/AOomC2Lp_kE" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/AOomC2Lp_kE?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Видео: Смена владельца партий без перевозки
 
 Перемещаем партии из одной фирмы в другую в одной базе 1С
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/Uw01YRLqdL8" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/Uw01YRLqdL8?rel=0" frameborder="0" allowfullscreen></iframe>

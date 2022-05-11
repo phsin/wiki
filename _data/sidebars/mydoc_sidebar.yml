@@ -23,12 +23,12 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Совместимость
+    - title: Описание
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Аппаратные требования
+    - title: Совместимость и аппаратные требования
       url: /vsd_server.html
       output: web, pdf
 
@@ -45,7 +45,7 @@ entries:
     folderitems:
 
     - title: Запуск модуля
-      url: /mydoc_release_notes_60.html
+      url: /vsd_params_v7.html
       output: web, pdf
 
     - title: Тестовые реквизиты Ветис
@@ -57,14 +57,14 @@ entries:
       output: web, pdf
 
     - title: Восстановить реквизиты Ветис
-      url: /vsd_vetis_restore.html
+      url: /vsd_vetis_prod.html
       output: web, pdf
 
     - title: Главное окно
-      url: /mydoc_release_notes_60.html
+      url: /vsd_params_v7.html
       output: web, pdf
 
-  - title: Настройка
+  - title: Настройка параметров
     output: web, pdf
     folderitems:
 
@@ -84,60 +84,36 @@ entries:
       url: /vsd_install_v7.html
       output: web, pdf
 
-    - title: Установка в 1С Предприятие 8.2 / 8.3
-      url: /mydoc_install_jekyll_on_mac.html
+    - title: Установка в 1С Предприятие 8.2
+      url: /vsd_install_v8_2.html
       output: web, pdf
 
-    - title: Install Jekyll on Windows
-      url: /mydoc_install_jekyll_on_windows.html
-      output: web, pdf
-
-  - title: Настройка параметров
-    output: web, pdf
-
-    folderitems:
-    - title: Параметры в 1С 7.7
-      url: /mydoc_pages.html
-      output: web, pdf
-
-    - title: Параметры в 1С 8
-      url: /mydoc_posts.html
-      output: web, pdf
-
-    - title: Lists
-      url: /mydoc_lists.html
+    - title: Установка в 1С Предприятие 8.3
+      url: /vsd_install_v8_3.html
       output: web, pdf
 
   - title: Документы 1С 7.7
     output: web, pdf
 
     folderitems:
-    - title: ВСД2 транзакция
-      url: /vsd_transaction2.html
+    - title: ВСД2_Транзакция
+      url: /doc_transaction.html
       output: web, pdf
 
     - title: ВСД2_Производство
-      url: /mydoc_tags.html
+      url: /doc_production.html
       output: web, pdf
 
     - title: ВСД2_Инвентаризация
-      url: /mydoc_series.html
-      output: web, pdf
-
-    - title: ВСД2_Входящий
-      url: /mydoc_series.html
+      url: /doc_inventarizacia.html
       output: web, pdf
 
     - title: ВСД2_ОбновитьТранспорт
-      url: /mydoc_series.html
+      url: /doc_transport.html
       output: web, pdf
 
     - title: ВСД2_ЛабораторныеИсследования
-      url: /mydoc_series.html
-      output: web, pdf
-
-    - title: ВСД2
-      url: /mydoc_series.html
+      url: /docs_labs.html
       output: web, pdf
 
   - title: Справочники 1С 7.7
