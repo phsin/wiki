@@ -4,7 +4,7 @@ tags: [formatting]
 keywords: search
 summary: "предназначен для оформления производственной партии, как завершённой, так и незавершённой партии в системе Меркурий."
 sidebar: mydoc_sidebar
-permalink: doc_production.html
+permalink: doc_v7_production.html
 folder: vsd
 toc: false
 tags: false

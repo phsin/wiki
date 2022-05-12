@@ -57,7 +57,7 @@ entries:
       output: web, pdf
 
     - title: Восстановить реквизиты Ветис
-      url: /vsd_vetis_prod.html
+      url: /vsd_vetis_restore.html
       output: web, pdf
 
     - title: Главное окно
@@ -97,23 +97,23 @@ entries:
 
     folderitems:
     - title: ВСД2_Транзакция
-      url: /doc_transaction.html
+      url: /doc_v7_transaction.html
       output: web, pdf
 
     - title: ВСД2_Производство
-      url: /doc_production.html
+      url: /doc_v7_production.html
       output: web, pdf
 
     - title: ВСД2_Инвентаризация
-      url: /doc_inventarizacia.html
+      url: /doc_v7_inventarizacia.html
       output: web, pdf
 
     - title: ВСД2_ОбновитьТранспорт
-      url: /doc_transport.html
+      url: /doc_v7_transport.html
       output: web, pdf
 
     - title: ВСД2_ЛабораторныеИсследования
-      url: /docs_labs.html
+      url: /doc_v7_labs.html
       output: web, pdf
 
   - title: Документы 1С 8
@@ -137,7 +137,7 @@ entries:
       output: web, pdf
 
     - title: ВСД2_ЛабораторныеИсследования
-      url: /docs_v8_labs.html
+      url: /doc_v8_labs.html
       output: web, pdf
 
   - title: Справочники 1С 7.7

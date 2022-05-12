@@ -4,7 +4,7 @@ tags: [formatting]
 keywords: search
 summary: "предназначен для оформления транспортной партии в системе Меркурий."
 sidebar: mydoc_sidebar
-permalink: doc_transaction.html
+permalink: doc_v7_transaction.html
 folder: vsd
 toc: false
 tags: false

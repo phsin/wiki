@@ -4,7 +4,7 @@ tags: [formatting]
 keywords: search
 summary: "предназначен для устранения несоответствий в сведениях о партии продукции в складском журнале системы Меркурий и фактических сведениях о продукции, выявленных по результатам проведенной инвентаризации на складе."
 sidebar: mydoc_sidebar
-permalink: doc_inventarizacia.html
+permalink: doc_v7_inventarizacia.html
 folder: vsd
 toc: false
 tags: false

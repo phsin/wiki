@@ -4,7 +4,7 @@ tags: [formatting]
 keywords: search
 summary: "предназначен для внесения номера транспортного средства в пункте перегрузке в уже оформленный ВСД."
 sidebar: mydoc_sidebar
-permalink: doc_transport.html
+permalink: doc_v7_transport.html
 folder: vsd
 toc: false
 tags: false
