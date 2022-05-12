@@ -108,6 +108,10 @@ entries:
       url: /doc_v7_inventarizacia.html
       output: web, pdf
 
+    - title: ВСД2_ОбъединениеПартий
+      url: /doc_v7_obedinenie_partii.html
+      output: web, pdf
+
     - title: ВСД2_ОбновитьТранспорт
       url: /doc_v7_transport.html
       output: web, pdf
