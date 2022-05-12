@@ -136,6 +136,10 @@ entries:
       url: /doc_v8_inventarizacia.html
       output: web, pdf
 
+    - title: ВСД2_ОбъединениеПартий
+      url: /doc_v8_obedinenie_partii.html
+      output: web, pdf
+
     - title: ВСД2_ОбновитьТранспорт
       url: /doc_v8_transport.html
       output: web, pdf
