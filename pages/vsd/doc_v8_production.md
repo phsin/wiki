@@ -4,7 +4,7 @@ tags: [formatting]
 keywords: search
 summary: "предназначен для оформления производственной партии, как завершённой, так и незавершённой партии в системе Меркурий."
 sidebar: mydoc_sidebar
-permalink: doc_production.html
+permalink: doc_v8_production.html
 folder: vsd
 toc: false
 tags: false
@@ -20,7 +20,7 @@ margin-bottom: 10px;
 }
 </style>
 
-{% include image.html file="screenshot_1_1548340203_screenshot_1_1545139481_2018-12-18_17-20-02.png" url="" alt="" caption="" max-width="800" %}
+{% include image.html file="2022-05-12_12-22-11.png" url="" alt="" caption="" max-width="800" %}
 
 В документе используются сведения:
 
@@ -94,3 +94,7 @@ margin-bottom: 10px;
 В ветеринарном сертификате, который был создан в результате транзакции с тем же кодом, что и текущая, происходит изменение объёма, если была указана произведённая продукция.
 Сертификат переходит в статус "оформлен (производство завершено)".
 Происходит увеличение объёма записи произведённой продукции, которая была создана с тем же номером операции, который указан в текущей операции, если была указана произведённая продукция.
+
+{% include image.html file="2022-05-12_12-21-50.png" url="" alt="" caption="" max-width="800" %}
+
+{% include image.html file="2022-05-12_12-22-40.png" url="" alt="" caption="" max-width="800" %}
