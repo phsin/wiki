@@ -116,12 +116,36 @@ entries:
       url: /docs_labs.html
       output: web, pdf
 
+  - title: Документы 1С 8
+    output: web, pdf
+
+    folderitems:
+    - title: ВСД2_Транзакция
+      url: /doc_v8_transaction.html
+      output: web, pdf
+
+    - title: ВСД2_Производство
+      url: /doc_v8_production.html
+      output: web, pdf
+
+    - title: ВСД2_Инвентаризация
+      url: /doc_v8_inventarizacia.html
+      output: web, pdf
+
+    - title: ВСД2_ОбновитьТранспорт
+      url: /doc_v8_transport.html
+      output: web, pdf
+
+    - title: ВСД2_ЛабораторныеИсследования
+      url: /docs_v8_labs.html
+      output: web, pdf
+
   - title: Справочники 1С 7.7
     output: web, pdf
 
     folderitems:
     - title: ВСД_ХозСубъект
-      url: /mydoc_adding_tooltips.html
+      url: /1cv7_hs.html
       output: web, pdf
 
     - title: ВСД_Площадка
