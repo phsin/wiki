@@ -157,7 +157,7 @@ entries:
       output: web, pdf
 
     - title: ВСД_Площадка
-      url: /mydoc_alerts.html
+      url: /1cv7_ploschadka.html
       output: web, pdf
 
     - title: ВСД_Партия
