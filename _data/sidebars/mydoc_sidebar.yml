@@ -32,10 +32,6 @@ entries:
       url: /vsd_server.html
       output: web, pdf
 
-    - title: Функции
-      url: /vsd_supported_features.html
-      output: web, pdf
-
     - title: Поддержка
       url: /support.html
       output: web, pdf
