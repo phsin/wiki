@@ -72,6 +72,22 @@ entries:
       url: /vsd_params_v8.html
       output: web, pdf
 
+    - title: Соответствия площадок
+      url: /vsd_ploschadki_v8.html
+      output: web, pdf
+
+    - title: Соответствия товаров
+      url: /vsd_tovari_v8.html
+      output: web, pdf
+
+    - title: Гашение ВСД
+      url: /vsd_gaschenie_v8.html
+      output: web, pdf
+
+    - title: Отправка ВСД
+      url: /vsd_send_v8.html
+      output: web, pdf
+
   - title: Установка модуля 
     output: web, pdf
     folderitems:
