@@ -21,7 +21,7 @@ company_name: КБ99
 google_analytics: UA-66296557-1
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
-host: 192.168.54.170
+host: 
 # the preview server used. Leave as is.
 
 port: 4000
