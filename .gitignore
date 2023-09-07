@@ -10,3 +10,5 @@ vendor/
 .jekyll-cache 
 .vscode/ 
 .pdf
+.obsidian 
+*.db
