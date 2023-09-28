@@ -60,18 +60,6 @@ entries:
       url: /vsd_params_v7.html
       output: web, pdf
 
-  - title: Настройка параметров
-    output: web, pdf
-    folderitems:
-
-    - title: Параметры для 1С 7.7
-      url: /vsd_params_v7.html
-      output: web, pdf
-
-    - title: Параметры для 1С 8
-      url: /vsd_params_v8.html
-      output: web, pdf
-
     - title: Соответствия площадок
       url: /vsd_ploschadki_v8.html
       output: web, pdf
@@ -86,6 +74,26 @@ entries:
 
     - title: Отправка ВСД
       url: /vsd_send_v8.html
+      output: web, pdf
+
+    - title: Мультимодальная перевозка
+      url: /vsd_multimodal.html
+      output: web, pdf
+
+    - title: Производство продукции и заполнение сырья по номенклатуре
+      url: /vsd_prod_raw.html
+      output: web, pdf
+
+  - title: Настройка параметров
+    output: web, pdf
+    folderitems:
+
+    - title: Параметры для 1С 7.7
+      url: /vsd_params_v7.html
+      output: web, pdf
+
+    - title: Параметры для 1С 8
+      url: /vsd_params_v8.html
       output: web, pdf
 
   - title: Установка модуля 
