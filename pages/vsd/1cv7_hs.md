@@ -20,7 +20,7 @@ margin-bottom: 10px;
 }
 </style>
 
-{% include image.html file="2022-05-12_13-20-38.png" url="" alt="" caption="" max-width="800" %}
+{% include image.html file="2022-05-12_13-20-38.png" url="images\2022-05-12_13-20-38.png" alt="" caption="" max-width="800" %}
 
 Хозяйствующий субъект – участник хозяйственной деятельности: юридическое лицо, физическое лицо или индивидуальный предприниматель, зарегистрированный в системе согласно [ЕГРЮЛ](https://egrul.nalog.ru/)
 

@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "a1ed36f661936609",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bc82a82f0557781",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31d967b7ac2365c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/vsd/doc_v7_transaction.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3854277c873b3d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/vsd/doc_v8_labs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "477fb97c108a75c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "be8c8f8aaa6134a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33bda24a0eb44733",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3c187a9828a5b4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aef425f10dd86dc2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da6f6a1e2036ad67",
+    "type": "split",
+    "children": [
+      {
+        "id": "888522a3c988ca06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1663359319bf545",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/vsd/doc_v8_labs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6ce19949dbe4d81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/vsd/doc_v8_labs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "937d03db87b7a5e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "05d7d5fd739e6b3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/vsd/doc_v8_labs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3854277c873b3d1d",
+  "lastOpenFiles": [
+    "test.bat~RF4705f2eb.TMP",
+    "FARF835.tmp",
+    "test.bat",
+    "pages/vsd/vsd_params_v8.md",
+    "pages/vsd/doc_v7_obedinenie_partii.md",
+    "_site/images/ВСД2_Объединение партий 7.jpg",
+    "pages/vsd/doc_v7_production.md",
+    "images/ВСД2_Объединение партий 7.jpg",
+    "pages/vsd/vsd_install_v7.md",
+    "_site/images/Параметры для 1С 8 5 новый.jpg",
+    "images/Параметры для 1С 8 5 новый.jpg",
+    "_site/images/Настройка параметров в 1С 8 1 новый.jpg",
+    "images/Настройка параметров в 1С 8 1 новый.jpg",
+    "pages/vsd/vsd_gaschenie_v8.md",
+    "pages/vsd/support.md",
+    "_site/images/Коннект скрин.jpg",
+    "_site/images/Гашение ВСД новый 1.jpg",
+    "images/Коннект скрин.jpg",
+    "images/Гашение ВСД новый 1.jpg",
+    "pages/vsd/vsd_server.md",
+    "pages/vsd/vsd_tovari_v8.md",
+    "pages/vsd/vsd_supported_features.md",
+    "pages/vsd/vsd_vetis_test.md",
+    "pages/vsd/vsd_vetis_prod.md",
+    "pages/vsd/vsd_vetis_restore.md",
+    "pages/vsd/doc_v7_labs.md",
+    "pages/vsd/doc_v7_inventarizacia.md",
+    "pages/vsd/1cv7_ploschadka.md",
+    "pages/vsd/1cv7_hs.md",
+    "pages/vsd/doc_v8_transaction.md",
+    "pages/vsd/doc_v8_obedinenie_partii.md",
+    "pages/vsd/doc_v8_labs.md",
+    "pages/vsd/doc_v8_inventarizacia.md",
+    "pages/vsd/doc_v7_transport.md",
+    "pages/vsd/doc_v7_transaction.md",
+    "pages/mydoc/mydoc_navtabs.md",
+    "pages/mydoc/mydoc_posts.md",
+    "pages/mydoc/mydoc_push_build_to_server.md",
+    "images/Поддержка.png.~tmp",
+    "images/{3E12AE8C-14F3-41E0-920E-B9657A9823E0}",
+    "_site/doc_v8_inventarizacia.html",
+    "_site/doc_v7_production.html",
+    "_site/doc_v7_inventarizacia.html",
+    "_site/doc_v8_transaction.html",
+    "_site/pages/vsd/doc_v8_transaction.html",
+    "images/Thumbs.db"
+  ]
+}
