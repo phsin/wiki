@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/vsd/vsd_install_v8_2.md",
+                "file": "pages/vsd/support.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/vsd/vsd_install_v8_2.md",
+                "file": "pages/vsd/support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/vsd/vsd_install_v8_2.md",
+                "file": "pages/vsd/support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/vsd/vsd_install_v8_2.md"
+                "file": "pages/vsd/support.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "31d967b7ac2365c6",
   "lastOpenFiles": [
+    "pages/vsd/vsd_install_v7.md",
+    "pages/vsd/vsd_install_v8_2.md",
     "_site/images/7. Установка в 1С Предприятие 8.2.jpg",
     "images/7. Установка в 1С Предприятие 8.2.jpg",
     "_site/images/6. Установка в 1С Предприятие 8.2.jpg",
@@ -158,7 +160,6 @@
     "images/4. Установка в 1С Предприятие 8.2.jpg",
     "_site/images/3. Установка в 1С Предприятие 8.2.jpg",
     "images/3. Установка в 1С Предприятие 8.2.jpg",
-    "_site/images/2. Установка в 1С Предприятие 8.2.jpg",
     "pages/vsd/vsd_multimodal.md",
     "pages/vsd/vsd_send_v8.md",
     "pages/vsd/vsd_vetis_prod.md",
@@ -186,7 +187,6 @@
     "pages/vsd/vsd_gaschenie_v8.md.REMOTE.md",
     "pages/vsd/vsd_gaschenie_v8.md.LOCAL.md",
     "pages/vsd/support.md.BASE.md",
-    "pages/vsd/support.md.REMOTE.md",
     "test.bat~RF4705f2eb.TMP",
     "FARF835.tmp",
     "test.bat",

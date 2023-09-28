@@ -28,7 +28,7 @@ margin-bottom: 10px;
 
 Мы отвечаем в [чате 1C Connect](https://1c-connect.com/join/s/bhbgroe537bz3pxg1g9ja6eroe) в рабочие дни **с 08:00 до 17:00 по московскому времени.**
 
-{% include image.html file="Коннект скрин.jpg" url="images\Коннект скрин.jpg" alt="" caption="" max-width="800" %}
+{% include image.html file="Коннект скрин.jpg" url="images\Коннект скрин.jpg" alt= "1C-Коннект - это чат и удаленное подключение к пользователю" caption="1C-Коннект - это чат и удаленное подключение к пользователю" %}
 
 * Заявки обрабатываются в порядке очереди.
 - Срок решения проблемы не регламентирован.

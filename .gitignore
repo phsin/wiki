@@ -12,3 +12,4 @@ vendor/
 .pdf
 .obsidian 
 *.db
+.obsidian/workspace.json
