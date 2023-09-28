@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/vsd/doc_v7_transaction.md",
+                "file": "pages/vsd/vsd_install_v8_2.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "3854277c873b3d1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/vsd/doc_v8_labs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/vsd/doc_v8_labs.md",
+                "file": "pages/vsd/vsd_install_v8_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/vsd/doc_v8_labs.md",
+                "file": "pages/vsd/vsd_install_v8_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/vsd/doc_v8_labs.md"
+                "file": "pages/vsd/vsd_install_v8_2.md"
               }
             }
           }
@@ -159,8 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3854277c873b3d1d",
+  "active": "31d967b7ac2365c6",
   "lastOpenFiles": [
+    "_site/images/7. Установка в 1С Предприятие 8.2.jpg",
+    "images/7. Установка в 1С Предприятие 8.2.jpg",
+    "_site/images/6. Установка в 1С Предприятие 8.2.jpg",
+    "images/6. Установка в 1С Предприятие 8.2.jpg",
+    "_site/images/5. Установка в 1С Предприятие 8.2.jpg",
+    "images/5. Установка в 1С Предприятие 8.2.jpg",
+    "_site/images/4. Установка в 1С Предприятие 8.2.jpg",
+    "images/4. Установка в 1С Предприятие 8.2.jpg",
+    "_site/images/3. Установка в 1С Предприятие 8.2.jpg",
+    "images/3. Установка в 1С Предприятие 8.2.jpg",
+    "_site/images/2. Установка в 1С Предприятие 8.2.jpg",
+    "pages/vsd/vsd_multimodal.md",
+    "pages/vsd/vsd_send_v8.md",
+    "pages/vsd/vsd_vetis_prod.md",
+    "pages/vsd/support.md",
+    "pages/vsd/vsd_supported_features.md",
+    "pages/vsd/vsd_server.md",
+    "pages/vsd/vsd_params_v8.md",
+    "_site/test.bat",
+    "_site/vsd_prod_raw.html",
+    "_site/vsd_multimodal.html",
+    "pages/vsd/doc_v8_labs.md",
     "pages/vsd/vsd_vetis_test.md.BASE.md",
     "pages/vsd/vsd_vetis_test.md.REMOTE.md",
     "pages/vsd/vsd_vetis_test.md.LOCAL.md",
@@ -178,34 +187,12 @@
     "pages/vsd/vsd_gaschenie_v8.md.LOCAL.md",
     "pages/vsd/support.md.BASE.md",
     "pages/vsd/support.md.REMOTE.md",
-    "pages/vsd/support.md.LOCAL.md",
-    "pages/vsd/doc_v7_transaction.md.BASE.md",
-    "pages/vsd/doc_v7_transaction.md.REMOTE.md",
-    "pages/vsd/doc_v7_transaction.md.LOCAL.md",
-    "pages/vsd/vsd_prod_raw.md",
-    "pages/vsd/vsd_multimodal.md",
-    "images/Поддержка.png",
-    "images/pr4.png",
-    "images/pr3.png",
-    "images/pr2.png",
-    "images/pr1.png",
-    "images/mm7.png",
-    "images/mm6.png",
-    "images/mm5.png",
-    "images/mm4.png",
-    "images/mm3.png",
     "test.bat~RF4705f2eb.TMP",
     "FARF835.tmp",
     "test.bat",
-    "pages/vsd/vsd_params_v8.md",
-    "pages/vsd/doc_v7_obedinenie_partii.md",
-    "pages/vsd/doc_v7_production.md",
     "images/Поддержка.png.~tmp",
     "images/{3E12AE8C-14F3-41E0-920E-B9657A9823E0}",
     "_site/doc_v8_inventarizacia.html",
-    "_site/doc_v7_production.html",
-    "_site/doc_v7_inventarizacia.html",
-    "_site/doc_v8_transaction.html",
-    "_site/pages/vsd/doc_v8_transaction.html"
+    "_site/doc_v7_production.html"
   ]
 }

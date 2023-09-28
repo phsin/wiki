@@ -33,7 +33,7 @@ margin-bottom: 10px;
 
 • Нажмите кнопку **"Выполнить"**, чтобы выполнить начальную загрузку данных.
 
-{% include image.html file="Параметры для 1С 8 2 новый.jpg"url="images\Параметры для 1С 8 2 новый.jpg"alt=""caption=""max-width="800" %}
+{% include image.html file="Параметры для 1С 8 2 новый.jpg" url="images\Параметры для 1С 8 2 новый.jpg" alt="" caption="" max-width="800" %}
 
 • Заполните параметры **по умолчанию**.
 
